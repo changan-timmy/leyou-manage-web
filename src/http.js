@@ -1,3 +1,4 @@
+// 2、默认的http请求工具
 import Vue from 'vue'
 import axios from 'axios'
 import config from './config'

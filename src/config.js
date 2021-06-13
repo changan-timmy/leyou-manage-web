@@ -1,3 +1,5 @@
+// 1、基本参数列表，默认的语言，路径、颜色、主题，码表 等
+
 const baseUrl = 'http://api.leyou.com'
 const config = {
   locale: 'zh-CN', // en-US, zh-CN

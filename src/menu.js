@@ -1,3 +1,5 @@
+// 4、常量配置
+
 var menus = [
   {
     action: "home",
